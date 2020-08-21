@@ -1,5 +1,11 @@
-### Hi there 👋
 
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/HAGITAKO/posts.svg)](http://qiita.com/HAGITAKO)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/HAGITAKO/contributions.svg)](http://qiita.com/HAGITAKO)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/HAGITAKO/followers.svg)](http://qiita.com/HAGITAKO)
+                
 <!--
 **hagitako/hagitako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
